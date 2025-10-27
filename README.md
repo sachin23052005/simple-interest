@@ -13,3 +13,5 @@ Simple Interest = (Principal × Rate × Time) / 100
 
 ## Author
 Your Name
+This project is created for learning Git and GitHub.
+
